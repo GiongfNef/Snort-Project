@@ -1,11 +1,10 @@
-# Snort-Project
-nai
-https://youtu.be/MsJJfFuOS5o
-=============================================
-Create by:
+---
+Author : 
+  - Trương Văn Rồng
+  - Lương Mạnh Tiến
+  - Phan Hoàng Nam
+---
 
-> 20521831 - Trương Văn Rồng
+# Snort
 
-20522008 - Lương Mạnh Tiến
-
-20521635 - Phan Hoàng Nam
+Our last term project in Network and System Managing class. 

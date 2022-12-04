@@ -7,6 +7,10 @@ Our last term project in Network and System Managing class to help understanding
 This repo includes our slide to seminar in class and a video to demo some usage of Snort.
 ---
 
+---
+`video demo Snort:` [link](https://youtu.be/ubVxjJxyDLA)
+---
+
 <table>
     <thead>
         <tr>

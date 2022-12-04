@@ -1,4 +1,4 @@
-# Snort
+# Snort | using Snort to detect and prevent malicious network attack
 
 Our last term project in Network and System Managing class to help understanding what and how to use Snort as an IDS to detect and prevent any malicious intrusion in our network system.
 

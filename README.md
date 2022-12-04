@@ -6,6 +6,6 @@ This repo includes our slide to seminar in class and a video to demo some usage 
 
 ---
 | Author |
-| --- |
+| --- | --- | --- |
 | Trương Văn Rồng | Lương Mạnh Tiến | Phan Hoàng Nam |
 ---

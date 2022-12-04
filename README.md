@@ -4,13 +4,17 @@ Our last term project in Network and System Managing class to help understanding
 
 This repo includes our slide to seminar in class and a video to demo some usage of Snort.
 
----
-| Author |
-| --- | --- | --- |
-| Trương Văn Rồng | Lương Mạnh Tiến | Phan Hoàng Nam |
----
-
-| Header 1  | Header 2 | Header 3 |
-| --- | --- | --- |
-| Some data | 
-| data | Some long data here | more data | 
+<table>
+    <thead>
+        <tr>
+            <th colspan=3>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Luong Manh Tien</td>
+            <td>Truong Van Rong</td>
+            <td>Phan Hoang Nam</td>
+        </tr>
+    </tbody>
+</table>

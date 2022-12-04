@@ -9,3 +9,8 @@ This repo includes our slide to seminar in class and a video to demo some usage 
 | --- | --- | --- |
 | Trương Văn Rồng | Lương Mạnh Tiến | Phan Hoàng Nam |
 ---
+
+| Header 1  | Header 2 | Header 3 |
+| --- | --- | --- |
+| Some data | 
+| data | Some long data here | more data | 
